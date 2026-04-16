@@ -7,7 +7,7 @@
 | Nama | Role |
 | :--- | :--- |
 | **Fadli Nurrizky** | Project Manager & Data Engineer |
+| **Irfan Aulia Rahman** | Data Science |
 | **Shan Ramadhan** | Data Analyst |
-| **I Gusti Ngurah Agung Hari Vijaya Kusuma** | 
 
 ---
