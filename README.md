@@ -1,7 +1,7 @@
 # 👥 Team HIRESIGHTS
 
 <div align="center">
-  <h3>🌟 Dream Team Members</h3>
+  <h3>🌟 Team Members</h3>
 </div>
 
 | Nama | Role |
