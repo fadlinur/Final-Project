@@ -1,3 +1,5 @@
+![alt text](https://github.com/fadlinur/Final-Project/blob/main/streamlit%20smote/download.png?raw=true)
+
 # 👥 Team HIRESIGHTS
 
 <div align="center">
