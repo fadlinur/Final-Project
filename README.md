@@ -55,24 +55,6 @@ According to Harvard Business Review:
 
 ---
 
-# 📂 Project Structure
-
-```text
-Final-Project/
-│
-├── Data Set/
-├── EDA - Modeling/
-├── Stage 1/
-├── Stage 2/
-├── Stage 3/
-├── Stage 4/
-├── picture/
-├── streamlit smote/
-├── Final Presentation.pptx
-└── README.md
-```
-
----
 
 # 📊 Dataset Information
 
